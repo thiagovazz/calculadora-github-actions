@@ -1,6 +1,6 @@
 # Calculadora — GitHub Actions
 
-![CI](https://github.com/SEU-USUARIO/calculadora-github-actions/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/thiagovazz/calculadora-github-actions/actions/workflows/ci.yml/badge.svg)
 
 Atividade de **GitHub Actions**: um pequeno programa em Python com testes de unidade executados automaticamente a cada commit em **3 sistemas operacionais** e **3 versões do Python**.
 
